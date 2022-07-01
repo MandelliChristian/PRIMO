@@ -1,2 +1,2 @@
 # RIP-REALM
-RNA Interference Prediction based on Regression and Linear Models
+RNA-Interference Prediction based on Regression and Linear Models
